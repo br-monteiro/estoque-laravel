@@ -1,0 +1,25 @@
+{
+  "name": "Estoque",
+  "description": "Projeto do Livro: PHP e Laravel - Casa do Código",
+  "main": "",
+  "authors": [
+    "br-monteiro <bruno.monteirodg@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0"
+  }
+}
